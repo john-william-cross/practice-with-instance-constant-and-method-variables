@@ -14,7 +14,7 @@ public class VariableTypePractice {
 
         VariableTypePractice lyrics = new VariableTypePractice();
 
-        String wholeLine = lyrics.num1 + num2 + num3;
+        String wholeLine = lyrics.NUM_1 + num2 + num3;
 
         System.out.println(wholeLine);
     }
