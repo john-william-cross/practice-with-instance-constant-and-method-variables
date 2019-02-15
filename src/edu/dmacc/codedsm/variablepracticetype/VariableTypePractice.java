@@ -2,7 +2,7 @@ package edu.dmacc.codedsm.variablepracticetype;
 
 public class VariableTypePractice {
 
-    final String num1 = "Welcome to";
+    final String NUM_1 = "Welcome to";
     static String num2 = " the jungle, ";
 
 
